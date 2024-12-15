@@ -14,7 +14,7 @@ const Containertwo = () => {
             <h1><b>Playground</b></h1>
         
             <input type="image" src="./imgs/genrate.png" alt="" width="50" height="50"/>
-            <input type="text" placeholder="Create a stunning photography agency landing page"/>
+            <input type="text" placeholder="Create a stunning web application"/>
             <button class="btn btn-outline-success" type="submit">Generate</button>
         </div>
         <div class="cone">
